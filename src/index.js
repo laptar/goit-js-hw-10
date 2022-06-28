@@ -26,7 +26,7 @@ function findCountry(evt) {
   console.log(evt.target.value);
   countryList
     .then(data => {
-      // console.log(data);
+      console.log(data);
       if (data.length === 1) {
         renderCountryItem(data);
       }

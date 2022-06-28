@@ -42,7 +42,7 @@
 76F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\terser\lib\sourcemap.js133008818913159090 0
 87F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\package-manager\index.d.ts133008818913185549 0
 81F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\sass\types\value\string.d.ts133008818918251871 0
-44F:\JavaScript\GH-projects\goit-js-hw-10\dist133009092256173241 1
+44F:\JavaScript\GH-projects\goit-js-hw-10\dist133009130574686090 1
 115F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional.ps1133008818946302235 0
 91F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\package-manager\lib\types.d.ts133008818914107664 0
 61F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\css-tree133008818921839059 1
@@ -118,7 +118,7 @@
 103F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\dist133008818891964847 1
 73F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\postcss-value-parser133008818892004505 1
 83F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\svgo\plugins\preset-default.js133008818908373506 0
-65F:\JavaScript\GH-projects\goit-js-hw-10\src\api\fetchCountries.js133009068548020121 0
+65F:\JavaScript\GH-projects\goit-js-hw-10\src\api\fetchCountries.js133009130192805826 0
 82F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\terser\node_modules\commander133008818885851952 1
 123F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\dist\location-tracker.js133008818882809229 0
 94F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\mediasource.js133008818943918978 0
@@ -165,14 +165,14 @@
 74F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\mdn-data\api\index.js133008818876761469 0
 70F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\cache\src133008818896397061 1
 84F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\SY.js133008818945299702 0
-52F:\JavaScript\GH-projects\goit-js-hw-10\src\index.js133009092426673180 0
+52F:\JavaScript\GH-projects\goit-js-hw-10\src\index.js133009129074922964 0
 60F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\is-json133008818886065333 1
 116F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133008818905491216 0
 82F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\escape-string-regexp\index.js133008818875140721 0
 110F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133008818915652495 0
 93F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\utility-types\dist\functional-helpers.js133008818880246554 0
 99F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\addeventlistener.js133008818892324547 0
-64F:\JavaScript\GH-projects\goit-js-hw-10\src\api\render-markup.js133009087216913494 0
+64F:\JavaScript\GH-projects\goit-js-hw-10\src\api\render-markup.js133009130573551612 0
 83F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\detect-libc\bin\detect-libc.js133008818885254692 0
 93F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\fullscreen.js133008818937288759 0
 81F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\posthtml-expressions\license133008818872908942 0
@@ -1638,7 +1638,7 @@
 85F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\regenerator-runtime\package.json133008818882449094 0
 87F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\electron-to-chromium\versions.json133008818896372827 0
 82F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@swc\helpers\src\_inherits.js133008818921635589 0
-66F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.975ef6c8.js.map133009092256134108 0
+66F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.975ef6c8.js.map133009130574656171 0
 74F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\react-refresh\LICENSE133008818872898953 0
 102F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133008818918251871 0
 80F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\fast-glob\out\utils\fs.d.ts133008818906323707 0
@@ -4090,7 +4090,7 @@
 100F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\transformer-image\lib\validateConfig.js133008818888695456 0
 78F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\namer-default\src133008818880735402 1
 95F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\transformer-image\lib\loadSharp.js133008818883016998 0
-63F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.77a9bc14.css133009092256025198 0
+63F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.77a9bc14.css133009129926048129 0
 129F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json133008818918411224 0
 85F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\transformer-html\LICENSE133008818873909488 0
 97F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\@parcel\transformer-html\src\dependencies.js133008818881121769 0
@@ -4719,9 +4719,9 @@
 62F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\.bin\svgo133008818946302235 0
 66F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\.bin\svgo.ps1133008818946302235 0
 68F:\JavaScript\GH-projects\goit-js-hw-10\node_modules\.bin\terser.cmd133008818946311050 0
-67F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.77a9bc14.css.map133009092256025198 0
-62F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.975ef6c8.js133009092256119213 0
-55F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.html133009092256055122 0
+67F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.77a9bc14.css.map133009129926058093 0
+62F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.975ef6c8.js133009130574636225 0
+55F:\JavaScript\GH-projects\goit-js-hw-10\dist\index.html133009129926097989 0
 72F:\JavaScript\GH-projects\goit-js-hw-10\assets\actions-config-step-2.png133001992232471635 0
 63F:\JavaScript\GH-projects\goit-js-hw-10\assets\how-it-works.png133001992232501556 0
 64F:\JavaScript\GH-projects\goit-js-hw-10\assets\repo-settings.png133001992232541442 0

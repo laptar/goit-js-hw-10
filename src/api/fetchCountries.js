@@ -1,8 +1,8 @@
 const BASE_URL = 'https://restcountries.com/v2/name/';
 const filterData = '?fields=name,capital,flags,languages,population';
 
-function fetchCountries(name) {
-  return fetch(`${BASE_URL}${name}${filterData}`)
+function fetchCountries(nameCountry) {
+  return fetch(`${BASE_URL}${nameCountry}${filterData}`)
     .then(res => {
       // console.log(res);
       if (!res.ok) {
