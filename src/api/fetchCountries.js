@@ -1,7 +1,8 @@
-const BASE_URL = 'https://restcountries.com/v3.1/name/';
+const BASE_URL = 'https://restcountries.com/v2/name/';
+const filterData = '?fields=name,capital,flags,languages,population';
 
 function fetchCountries(name) {
-  return fetch(`${BASE_URL}${name}`)
+  return fetch(`${BASE_URL}${name}${filterData}`)
     .then(res => {
       // console.log(res);
       if (!res.ok) {
